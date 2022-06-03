@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content component Must fill element by text after changing input 1`] = `
+<code
+  data-testid="app-value"
+>
+  123123
+</code>
+`;
